@@ -356,6 +356,8 @@ udp://@225.1.1.69:30120
 udp://@225.1.1.70:30120
 #EXTINF:-1 group-title="CLEAN FEED" tvg-logo="https://i.imgur.com/iuGGPYy.png",SEA GAMES FEED 1
 udp://@225.1.1.35:30120
+#EXTINF:-1 group-title="CLEAN FEED" tvg-logo="https://i.imgur.com/iuGGPYy.png",SEA GAMES FEED 2
+udp://@225.1.1.100:30120
 #-------------------VTV 4Mbps-------------------#
 #EXTINF:-1 group-title="VTV" tvg-id="vtv1hd" tvg-logo="https://i.imgur.com/te4Rb7f.png",VTV1 HD (HD 4Mbps)
 udp://@225.1.4.1:30120
