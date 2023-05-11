@@ -278,8 +278,7 @@ udp://@225.1.2.231:30120
 udp://@225.1.1.142:30120
 #EXTINF:-1 group-title="Quốc Tế" tvg-id="cinemaxhd" tvg-logo="https://i.imgur.com/PklWJDL.png",Cinemax HD
 udp://@225.1.2.86:30120
-#EXTINF:-1 group-title="Quốc Tế" tvg-id="davinci" tvg-logo="https://static.megavie.live/media/davinci.png",Da Vinci
-udp://@225.1.1.197:30120
+
 #EXTINF:-1 group-title="Quốc Tế" tvg-logo="https://i.imgur.com/blEhr2T.png",Discovery Asia HD
 udp://@225.1.2.223:30120
 #EXTINF:-1 group-title="Quốc Tế" tvg-id="discoveryhd" tvg-logo="https://i.imgur.com/fXuxFbz.png",Discovery Channel HD
