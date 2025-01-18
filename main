@@ -60,160 +60,150 @@ udp://@225.1.2.217:30120
 #EXTINF:-1 group-title="Other" tvg-logo="https://i.imgur.com/DCw2OgM.png",SCTV6
 udp://@225.1.1.188:30120
 #-------------------Địa phương-------------------#
-#EXTINF:-1 group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/iuGGPYy.png",THLC _ TH Lào Cai
+#EXTINF:0 tvg-id="laocai" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/QAVSUBu.png",THLC - TH Lào Cai
 udp://@225.1.1.119:30120
-#EXTINF:-1 group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/iuGGPYy.png",YTV HD _ TH Yên Bái
+#EXTINF:0 tvg-id="yenbai" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/AELRXuX.png",YTV HD - TH Yên Bái
 udp://@225.1.1.39:30120
-#EXTINF:-1 group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/iuGGPYy.png",ĐTV HD _ TH Điện Biên
+#EXTINF:0 tvg-id="dienbien" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/Rky1N5S.png",ĐTV - TH Điện Biên
 udp://@225.1.1.74:30120
-#EXTINF:-1 group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/iuGGPYy.png",HBTV HD _ TH Hòa Bình
+#EXTINF:0 tvg-id="hoabinh" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/cgKnwnX.png",HBTV HD - TH Hòa Bình
 udp://@225.1.2.168:30120
-#EXTINF:-1 group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/iuGGPYy.png",LTV HD _ TH Lai Châu
+#EXTINF:0 tvg-id="laichau" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/we3GCjr.png",LTV HD - TH Lai Châu
 udp://@225.1.2.36:30120
-#EXTINF:-1 group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/iuGGPYy.png",HGTV _ TH Hà Giang
+#EXTINF:0 tvg-id="hagiang" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/h7uPIEP.png",HGTV - TH Hà Giang
 udp://@225.1.1.62:30120
-#EXTINF:-1 group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/iuGGPYy.png",TTV HD _ TH Tuyên Quang
-udp://@225.1.2.188:30120
-#EXTINF:-1 group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/iuGGPYy.png",TN1 HD _ TH Thái Nguyên
-udp://@225.1.2.179:30120
-#EXTINF:-1 group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/iuGGPYy.png",PTV HD _ TH Phú Thọ
-udp://@225.1.2.165:30120
-#EXTINF:-1 group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/iuGGPYy.png",BGTV _ TH Bắc Giang
-udp://@225.1.1.164:30120
-#EXTINF:-1 group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/iuGGPYy.png",LSTV HD _ TH Lạng Sơn
-udp://@225.1.1.160:30120
-#EXTINF:-1 group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/iuGGPYy.png",CRTV HD _ TH Cao Bằng
+#EXTINF:0 tvg-id="caobang" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/YCrYT2p.png",CRTV HD - TH Cao Bằng
 udp://@225.1.1.102:30120
-#EXTINF:-1 group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/iuGGPYy.png",TBK HD _ TH Bắc Kạn
+#EXTINF:0 tvg-id="backan" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/msjevyp.png",TBK HD - TH Bắc Kạn
 udp://@225.1.1.126:30120
-#EXTINF:-1 group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/iuGGPYy.png",QTV1 HD _ TH Quảng Ninh
+#EXTINF:0 tvg-id="langson" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/6FCXyrr.png",LSTV HD - TH Lạng Sơn
+udp://@225.1.1.160:30120
+#EXTINF:0 tvg-id="tuyenquang" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/6RPgRE7.png",TTV - TH Tuyên Quang
+udp://@225.1.2.188:30120
+#EXTINF:0 tvg-id="thainguyen" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/UBcqMiY.png",TN1 HD - TH Thái Nguyên
+udp://@225.1.2.179:30120
+#EXTINF:0 tvg-id="phutho" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/5OZ2hAB.png",PTV HD - TH Phú Thọ
+udp://@225.1.2.165:30120
+#EXTINF:0 tvg-id="bacgiang" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/05t6W7v.png",BGTV - TH Bắc Giang
+udp://@225.1.1.164:30120
+#EXTINF:0 tvg-id="quangninh1" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/sGcRJVP.png",QTV1 HD - TH Quảng Ninh
 udp://@225.1.2.181:30120
-#EXTINF:-1 group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/iuGGPYy.png",BTV _ TH Bắc Ninh
-udp://@225.1.1.40:30120
-#EXTINF:-1 group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/iuGGPYy.png",H1 HD _ TH Hà Nội
-udp://@225.1.2.186:30120
-#EXTINF:-1 group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/iuGGPYy.png",THP HD _ TH TP. Hải Phòng
-udp://@225.1.1.44:30120
-#EXTINF:-1 group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/iuGGPYy.png",THP+ HD _ TH TP. Hải Phòng
-udp://@225.1.1.113:30120
-#EXTINF:-1 group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/iuGGPYy.png",NTV HD _ TH Ninh Bình
-udp://@225.1.2.185:30120
-#EXTINF:-1 group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/iuGGPYy.png",TBTV HD _ TH Thái Bình
-udp://@225.1.1.99:30120
-#EXTINF:-1 group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/iuGGPYy.png",VP HD _ TH Vĩnh Phúc
-udp://@225.1.2.99:30120
-#EXTINF:-1 group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/iuGGPYy.png",NTV HD _ TH Nghệ An
-udp://@225.1.2.183:30120
-#EXTINF:-1 group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/iuGGPYy.png",HTTV HD _ TH Hà Tĩnh
-udp://@225.1.1.75:30120
-#EXTINF:-1 group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/iuGGPYy.png",QRTV HD _ TH Quảng Trị
-udp://@225.1.1.117:30120
-#EXTINF:-1 group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/iuGGPYy.png",DaNangTV1 HD _ TH TP. Đà Nẵng
-udp://@225.1.1.147:30120
-#EXTINF:-1 group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/iuGGPYy.png",DaNangTV2 HD _ TH TP. Đà Nẵng
-udp://@225.1.1.146:30120
-#EXTINF:-1 group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/iuGGPYy.png",QRT HD _ TH Quảng Nam
-udp://@225.1.2.50:30120
-#EXTINF:-1 group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/iuGGPYy.png",PTQ _ TH Quảng Ngãi
-udp://@225.1.2.174:30120
-#EXTINF:-1 group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/iuGGPYy.png",BTV _ TH Bình Định
-udp://@225.1.1.145:30120
-#EXTINF:-1 group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/iuGGPYy.png",PTP HD _ TH Phú Yên
-udp://@225.1.2.58:30120
-#EXTINF:-1 group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/iuGGPYy.png",KTV HD _ TH Khánh Hòa
-udp://@225.1.1.133:30120
-#EXTINF:-1 group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/iuGGPYy.png",BTV HD _ TH Bình Thuận
-udp://@225.1.1.124:30120
-#EXTINF:-1 group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/iuGGPYy.png",KRT _ TH Kon Tum
-udp://@225.1.1.36:30120
-#EXTINF:-1 group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/iuGGPYy.png",THGL HD _ TH Gia Lai
-udp://@225.1.2.176:30120
-#EXTINF:-1 group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/iuGGPYy.png",DRT HD _ TH Đắk Lắk
-udp://@225.1.1.64:30120
-#EXTINF:-1 group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/iuGGPYy.png",LTV HD _ TH Lâm Đồng
-udp://@225.1.2.177:30120
-#EXTINF:-1 group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/iuGGPYy.png",BTV1 HD _ TH Bình Dương
-udp://@225.1.1.150:30120
-#EXTINF:-1 group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/iuGGPYy.png",BTV2 HD _ TH Bình Dương
-udp://@225.1.1.149:30120
-#EXTINF:-1 group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/iuGGPYy.png",BTV3 HD _ TH Bình Dương
-udp://@225.1.2.22:30120
-#EXTINF:-1 group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/iuGGPYy.png",BTV4 HD _ TH Bình Dương
-udp://@225.1.1.29:30120
-#EXTINF:-1 group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/iuGGPYy.png",BTV9
-udp://@225.1.2.189:30120
-#EXTINF:-1 group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/iuGGPYy.png",ĐNRTV1 HD _ TH Đồng Nai
-udp://@225.1.1.152:30120
-#EXTINF:-1 group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/iuGGPYy.png",ĐNRTV2 HD _ TH Đồng Nai
-udp://@225.1.1.151:30120
-#EXTINF:-1 group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/iuGGPYy.png",TTV11 _ TH Tây Ninh
-udp://@225.1.1.130:30120
-#EXTINF:-1 group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/iuGGPYy.png",BRT HD _ TH Bà Rịa Vũng Tàu
-udp://@225.1.2.175:30120
-#EXTINF:-1 group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/iuGGPYy.png",THĐT1 HD _ TH Đồng Tháp
-udp://@225.1.1.163:30120
-#EXTINF:-1 group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/iuGGPYy.png",THĐT2 Miền Tây _ TH Đồng Tháp
-udp://@225.1.1.210:30120
-#EXTINF:-1 group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/iuGGPYy.png",THTG HD _ TH Tiền Giang
-udp://@225.1.2.170:30120
-#EXTINF:-1 group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/iuGGPYy.png",THBT HD _ TH Bến Tre
-udp://@225.1.1.156:30120
-#EXTINF:-1 group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/iuGGPYy.png",THVL1 HD _ TH Vĩnh Long
-udp://@225.1.1.155:30120
-#EXTINF:-1 group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/iuGGPYy.png",THVL2 HD _ TH Vĩnh Long
-udp://@225.1.1.154:30120
-#EXTINF:-1 group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/iuGGPYy.png",THVL3 HD _ TH Vĩnh Long
-udp://@225.1.1.235:30120
-#EXTINF:-1 group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/iuGGPYy.png",THVL4 HD _ TH Vĩnh Long
-udp://@225.1.2.25:30120
-#EXTINF:-1 group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/iuGGPYy.png",THTV HD _ TH Trà Vinh
-udp://@225.1.2.172:30120
-#EXTINF:-1 group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/iuGGPYy.png",HGTV HD _ TH Hậu Giang
-udp://@225.1.1.157:30120
-#EXTINF:-1 group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/iuGGPYy.png",KG _ TH Kiên Giang
-udp://@225.1.2.182:30120
-#EXTINF:-1 group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/iuGGPYy.png",BLTV HD _ TH Bạc Liêu
-udp://@225.1.1.61:30120
-#EXTINF:-1 group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/iuGGPYy.png",CTV HD _ TH Cà Mau
-udp://@225.1.1.104:30120
-#EXTINF:-1 group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/iuGGPYy.png",THTPCT HD _ TH TP. Cần Thơ
-udp://@225.1.1.132:30120
-#EXTINF:-1 group-title="Địa phương (SD)" tvg-logo="https://i.imgur.com/iuGGPYy.png",STV _ TH Sơn La
-udp://@225.1.1.98:30120
-#EXTINF:-1 group-title="Địa phương (SD)" tvg-logo="https://i.imgur.com/iuGGPYy.png",QTV3 _ TH Quảng Ninh
+#EXTINF:0 tvg-id="quangninh3" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/4hadYbw.png",QTV3 HD - TH Quảng Ninh
 udp://@225.1.2.180:30120
-#EXTINF:-1 group-title="Địa phương (SD)" tvg-logo="https://i.imgur.com/iuGGPYy.png",THHN _ TH Hà Nam
-udp://@225.1.1.63:30120
-#EXTINF:-1 group-title="Địa phương (SD)" tvg-logo="https://i.imgur.com/iuGGPYy.png",THD _ TH Hải Dương
+#EXTINF:0 tvg-id="bacninh" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/zUFSFCV.png",BTV - TH Bắc Ninh
+udp://@225.1.1.40:30120
+#EXTINF:0 tvg-id="hanoi1" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/mwCTDMj.png",H1 HD - TH Hà Nội
+udp://@225.1.2.186:30120
+#EXTINF:0 tvg-id="hanoi2" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/HyiwlZV.png",H2 HD - TH Hà Nội
+udp://@225.1.1.125:30120
+#EXTINF:0 tvg-id="haiduong" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/QmzXd4R.png",THD - TH Hải Dương
 udp://@225.1.1.158:30120
-#EXTINF:-1 group-title="Địa phương (SD)" tvg-logo="https://i.imgur.com/iuGGPYy.png",HY _ TH Hưng Yên
-udp://@225.1.1.118:30120
-#EXTINF:-1 group-title="Địa phương (SD)" tvg-logo="https://i.imgur.com/iuGGPYy.png",NTV _ TH Nam Định
-udp://@225.1.1.120:30120
-#EXTINF:-1 group-title="Địa phương (SD)" tvg-logo="https://i.imgur.com/iuGGPYy.png",TTV _ TH Thanh Hóa
-udp://@225.1.2.184:30120
-#EXTINF:-1 group-title="Địa phương (SD)" tvg-logo="https://i.imgur.com/iuGGPYy.png",QBTV _ TH Quảng Bình
+#EXTINF:0 tvg-id="haiphong" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/StFk4PA.png",THP HD - TH TP. Hải Phòng
+udp://@225.1.1.44:30120
+#EXTINF:0 tvg-id="ninhbinh" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/XuYnZWe.png",NTV HD - TH Ninh Bình
+udp://@225.1.2.185:30120
+#EXTINF:0 tvg-id="thaibinh" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/fP7B6A4.png",TBTV HD - TH Thái Bình
+udp://@225.1.1.99:30120
+#EXTINF:0 tvg-id="vinhphuc" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/rrxDn5n.png",VP HD - TH Vĩnh Phúc
+udp://@225.1.2.99:30120
+#EXTINF:0 tvg-id="nghean" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/5HEfwZz.png",NTV HD - TH Nghệ An
+udp://@225.1.2.183:30120
+#EXTINF:0 tvg-id="hatinh" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/R4uthe7.png",HTTV HD - TH Hà Tĩnh
+udp://@225.1.1.75:30120
+#EXTINF:0 tvg-id="quangbinh" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/8yOdFDx.png",QBTV - TH Quảng Bình
 udp://@225.1.2.164:30120
-#EXTINF:-1 group-title="Địa phương (SD)" tvg-logo="https://i.imgur.com/iuGGPYy.png",TRT _ TH Thừa Thiên Huế
-udp://@225.1.1.161:30120
-#EXTINF:-1 group-title="Địa phương (SD)" tvg-logo="https://i.imgur.com/iuGGPYy.png",NTV _ TH Ninh Thuận
+#EXTINF:0 tvg-id="quangtri" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/4TLTYfu.png",QRTV - TH Quảng Trị
+udp://@225.1.1.117:30120
+#EXTINF:0 tvg-id="danang1" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/6OWQ8lU.png",DaNangTV1 HD - TH TP. Đà Nẵng
+udp://@225.1.1.147:30120
+#EXTINF:0 tvg-id="danang2" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/hkzIqEV.png",DaNangTV2 HD - TH TP. Đà Nẵng
+udp://@225.1.1.146:30120
+#EXTINF:0 tvg-id="quangnam" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/uWHWxZB.png",QRT HD - TH Quảng Nam
+udp://@225.1.2.50:30120
+#EXTINF:0 tvg-id="quangngai" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/McmKwa8.png",PTQ - TH Quảng Ngãi
+udp://@225.1.2.174:30120
+#EXTINF:0 tvg-id="binhdinh" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/APCkufv.png",BTV - TH Bình Định
+udp://@225.1.1.145:30120
+#EXTINF:0 tvg-id="phuyen" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/r2xMHkT.png",PTP HD - TH Phú Yên
+udp://@225.1.2.58:30120
+#EXTINF:0 tvg-id="khanhhoa" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/kPu3rSN.png",KTV HD - TH Khánh Hòa
+udp://@225.1.1.133:30120
+#EXTINF:0 tvg-id="ninhthuan" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/cx5AaTV.png",NTV HD - TH Ninh Thuận
 udp://@225.1.2.178:30120
-#EXTINF:-1 group-title="Địa phương (SD)" tvg-logo="https://i.imgur.com/iuGGPYy.png",BPTV1 _ TH Bình Phước
+#EXTINF:0 tvg-id="binhthuan" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/Bu1xsiJ.png",BTV HD - TH Bình Thuận
+udp://@225.1.1.124:30120
+#EXTINF:0 tvg-id="kontum" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/C4yYbbi.png",KRT - TH Kon Tum
+udp://@225.1.1.36:30120
+#EXTINF:0 tvg-id="gialai" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/csqFzvA.png",THGL HD - TH Gia Lai
+udp://@225.1.2.176:30120
+#EXTINF:0 tvg-id="daklak" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/H2LOZ2A.png",DRT HD - TH Đắk Lắk
+udp://@225.1.1.64:30120
+#EXTINF:0 tvg-id="lamdong" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/Tv0fNk3.png",LTV HD - TH Lâm Đồng
+udp://@225.1.2.177:30120
+#EXTINF:0 tvg-id="binhphuoc1" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/DHWoGfP.png",BPTV1 HD - TH Bình Phước
 udp://@225.1.2.23:30120
-#EXTINF:-1 group-title="Địa phương (SD)" tvg-logo="https://i.imgur.com/iuGGPYy.png",BPTV2 _ TH Bình Phước
+#EXTINF:0 tvg-id="binhphuoc2" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/CyhvaPs.png",BPTV2 HD - TH Bình Phước
 udp://@225.1.2.38:30120
-#EXTINF:-1 group-title="Địa phương (SD)" tvg-logo="https://i.imgur.com/iuGGPYy.png",BTV6 _ TH Bình Dương
-udp://@225.1.1.223:30120
-#EXTINF:-1 group-title="Địa phương (SD)" tvg-logo="https://i.imgur.com/iuGGPYy.png",LA34 _ TH Long An
-udp://@225.1.1.162:30120
-#EXTINF:-1 group-title="Địa phương (SD)" tvg-logo="https://i.imgur.com/iuGGPYy.png",ATV _ TH An Giang
+#EXTINF:0 tvg-id="binhduong1" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/YPQCtHY.png",BTV1 HD - TH Bình Dương
+udp://@225.1.1.150:30120
+#EXTINF:0 tvg-id="binhduong2" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/LpV0d3Q.png",BTV2 HD - TH Bình Dương
+udp://@225.1.1.149:30120
+#EXTINF:0 tvg-id="anvienhd" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/jeunb3Y.png",BTV9 B Channel
+udp://@225.1.2.189:30120
+#EXTINF:0 tvg-id="dongnai1" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/blOZQPI.png",ĐNRTV1 HD - TH Đồng Nai
+udp://@225.1.1.152:30120
+#EXTINF:0 tvg-id="dongnai2" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/tIvmaaX.png",ĐNRTV2 HD - TH Đồng Nai
+udp://@225.1.1.151:30120
+#EXTINF:0 tvg-id="tayninh" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/0DU4cyg.png",TTV11 - TH Tây Ninh
+udp://@225.1.1.130:30120
+#EXTINF:0 tvg-id="vungtau" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/KX2RMXR.png",BRT HD - TH Bà Rịa Vũng Tàu
+udp://@225.1.2.175:30120
+#EXTINF:0 tvg-id="dongthap" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/UfOw13y.png",THĐT1 - TH Đồng Tháp
+udp://@225.1.1.163:30120
+#EXTINF:0 tvg-id="" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/WXebESa.png",THĐT2 Miền Tây
+udp://@225.1.1.210:30120
+#EXTINF:0 tvg-id="tiengiang" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/NkHFZ0D.png",THTG HD - TH Tiền Giang
+udp://@225.1.2.170:30120
+#EXTINF:0 tvg-id="angiang" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/2On2R0G.png",ATV - TH An Giang
 udp://@225.1.2.173:30120
-#EXTINF:-1 group-title="Địa phương (SD)" tvg-logo="https://i.imgur.com/iuGGPYy.png",STV1 _ TH Sóc Trăng
+#EXTINF:0 tvg-id="bentre" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/9UZtJvv.png",THBT HD - TH Bến Tre
+udp://@225.1.1.156:30120
+#EXTINF:0 tvg-id="vinhlong1hd" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/gvPtTR2.png",THVL1 HD - TH Vĩnh Long
+udp://@225.1.1.155:30120
+#EXTINF:0 tvg-id="vinhlong2hd" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/wYadDFn.png",THVL2 HD - TH Vĩnh Long
+udp://@225.1.1.154:30120
+#EXTINF:0 tvg-id="vinhlong3hd" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/B8S0dyG.png",THVL3 HD - TH Vĩnh Long
+udp://@225.1.1.235:30120
+#EXTINF:0 tvg-id="vinhlong4hd" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/xYalJzh.png",THVL4 HD - TH Vĩnh Long
+udp://@225.1.2.25:30120
+#EXTINF:0 tvg-id="travinh" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/dHOm6Ll.png",THTV HD - TH Trà Vinh
+udp://@225.1.2.172:30120
+#EXTINF:0 tvg-id="haugiang" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/a3joZFM.png",HGTV HD - TH Hậu Giang
+udp://@225.1.1.157:30120
+#EXTINF:0 tvg-id="kiengiang" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/jCTogPb.png",KG - TH Kiên Giang
+udp://@225.1.2.182:30120
+#EXTINF:0 tvg-id="baclieu" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/FoAzh3R.png",BLTV HD - TH Bạc Liêu
+udp://@225.1.1.61:30120
+#EXTINF:0 tvg-id="camau" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/cYqXh3i.png",CTV HD - TH Cà Mau
+udp://@225.1.1.104:30120
+#EXTINF:0 tvg-id="cantho" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/NyrxzES.png",THTPCT HD - TH TP. Cần Thơ
+udp://@225.1.1.132:30120
+#EXTINF:0 tvg-id="sonla" group-title="Địa phương (SD)" tvg-logo="https://i.imgur.com/QZT6GIh.png",STV - TH Sơn La
+udp://@225.1.1.98:30120
+#EXTINF:0 tvg-id="hanam" group-title="Địa phương (SD)" tvg-logo="https://i.imgur.com/DCSPntI.png",THHN - TH Hà Nam
+udp://@225.1.1.63:30120
+#EXTINF:0 tvg-id="hungyen" group-title="Địa phương (SD)" tvg-logo="https://i.imgur.com/deNnP9h.png",HY - TH Hưng Yên
+udp://@225.1.1.118:30120
+#EXTINF:0 tvg-id="namdinh" group-title="Địa phương (SD)" tvg-logo="https://i.imgur.com/qW62XEm.png",NTV - TH Nam Định
+udp://@225.1.1.120:30120
+#EXTINF:0 tvg-id="thanhhoa" group-title="Địa phương (SD)" tvg-logo="https://i.imgur.com/NlOwltd.png",TTV - TH Thanh Hóa
+udp://@225.1.2.184:30120
+#EXTINF:0 tvg-id="hue" group-title="Địa phương (SD)" tvg-logo="https://i.imgur.com/29px2Qy.png",TRT - TH TP. Huế
+udp://@225.1.1.161:30120
+#EXTINF:0 tvg-id="longan" group-title="Địa phương (SD)" tvg-logo="https://i.imgur.com/jBWD3It.png",LA34 - TH Long An
+udp://@225.1.1.162:30120
+#EXTINF:0 tvg-id="soctrang" group-title="Địa phương (SD)" tvg-logo="https://i.imgur.com/5KQJoBg.png",STV1 - TH Sóc Trăng
 udp://@225.1.1.159:30120
-#EXTINF:-1 group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/iuGGPYy.png",BGTV HD _ TH Bắc Giang
-udp://@225.1.4.173:30120
-#EXTINF:-1 group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/iuGGPYy.png",TBK HD _ TH Bắc Kạn
-udp://@225.1.4.174:30120
 #-------------------Quốc tế-------------------#
 #EXTINF:-1 group-title="Quốc Tế" tvg-id="animalhd" tvg-logo="https://i.imgur.com/9t7FsCk.png",Animal Planet
 udp://@225.1.1.231:30120
