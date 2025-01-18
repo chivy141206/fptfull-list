@@ -22,37 +22,6 @@ udp://@225.1.1.128:30120
 udp://@225.1.2.236:30120
 #EXTINF:-1 group-title="VTV" tvg-id="vtv5hdtn" tvg-logo="https://i.imgur.com/rL36UO5.png",VTV5 Tây Nguyên
 udp://@225.1.1.108:30120
-#-------------------VTC/VOV-------------------#
-#EXTINF:-1 group-title="VTC" tvg-id="vtc1hd" tvg-logo="https://imgur.com/Pc2ZuX0.png",VTC1 HD
-udp://@225.1.2.254:30120
-#EXTINF:-1 group-title="VTC" tvg-id="vtc3hd" tvg-logo="https://imgur.com/vemNwkI.png",VTC3 HD
-udp://@225.1.2.251:30120
-#EXTINF:-1 group-title="VTC" tvg-id="vtc4hd" tvg-logo="https://imgur.com/0dkRtxJ.png",VTC4 HD
-udp://@225.1.2.200:30120
-#EXTINF:-1 group-title="VTC" tvg-id="vtc13hd" tvg-logo="https://imgur.com/2RRt2M4.png",VTC13 HD
-udp://@225.1.2.250:30120
-#EXTINF:-1 group-title="VTC" tvg-id="vtc14hd" tvg-logo="https://imgur.com/jlvmYDY.png",VTC14 HD
-udp://@225.1.2.88:30120
-#EXTINF:-1 group-title="VTC" tvg-id="vtc16hd" tvg-logo="https://imgur.com/kpD8AAE.png",VTC16 HD
-udp://@225.1.2.190:30120
-#EXTINF:-1 group-title="VTC" tvg-logo="https://i.imgur.com/MGLFyKb.png",VOV TV
-udp://@225.1.2.171:30120
-#EXTINF:-1 group-title="VTC" tvg-logo="https://imgur.com/1FccD2h.png",VTC2
-udp://@225.1.2.202:30120
-#EXTINF:-1 group-title="VTC" tvg-logo="https://imgur.com/IDkKiEa.png",VTC5
-udp://@225.1.2.199:30120
-#EXTINF:-1 group-title="VTC" tvg-logo="https://imgur.com/rTxMJIB.png",VTC6
-udp://@225.1.2.198:30120
-#EXTINF:-1 group-title="VTC" tvg-logo="https://imgur.com/sDWf2Q1.png",VTC7
-udp://@225.1.2.197:30120
-#EXTINF:-1 group-title="VTC" tvg-logo="https://imgur.com/cQ8Ygbk.png",VTC8
-udp://@225.1.2.196:30120
-#EXTINF:-1 group-title="VTC" tvg-logo="https://imgur.com/F6x7ZNA.png",VTC10
-udp://@225.1.2.194:30120
-#EXTINF:-1 group-title="VTC" tvg-logo="https://imgur.com/RoTy0Ly.png",VTC11
-udp://@225.1.2.193:30120
-#EXTINF:-1 group-title="VTC" tvg-logo="https://imgur.com/qAOy5Cd.png",VTC12
-udp://@225.1.2.51:30120
 #-------------------HTV/HTVC-------------------#
 #EXTINF:-1 group-title="HTV/HTVC" tvg-id="htv2hd" tvg-logo="https://i.imgur.com/12qnM2B.png",HTV2 HD
 udp://@225.1.1.193:30120
@@ -85,14 +54,8 @@ udp://@225.1.1.181:30120
 #-------------------Thiết yếu-------------------#
 #EXTINF:-1 group-title="Kênh TH Thiết yếu" tvg-logo="https://i.imgur.com/5qQzerW.png" tvg-id="antvhd",ANTV - An Ninh TV
 udp://@225.1.2.169:30120
-#EXTINF:-1 group-title="Kênh TH Thiết yếu" tvg-logo="https://i.imgur.com/rswzxzG.png",Nhân Dân TV
-udp://@225.1.1.91:30120
-#EXTINF:-1 group-title="Kênh TH Thiết yếu" tvg-logo="https://i.imgur.com/IqErj7W.png",Quốc Hội TV
-udp://@225.1.2.148:30120
 #EXTINF:-1 group-title="Kênh TH Thiết yếu" tvg-logo="https://i.imgur.com/dcjQ1eA.jpg" tvg-id="qpvnhd",QPVN
 udp://@225.1.2.217:30120
-#EXTINF:-1 group-title="Kênh TH Thiết yếu" tvg-logo="https://i.imgur.com/Lh9aWAL.jpg" tvg-id="ttxvnhd",TTXVN
-udp://@225.1.1.43:30120
 #-------------------Other-------------------#
 #EXTINF:-1 group-title="Other" tvg-logo="https://i.imgur.com/DCw2OgM.png",SCTV6
 udp://@225.1.1.188:30120
@@ -254,8 +217,6 @@ udp://@225.1.4.174:30120
 #-------------------Quốc tế-------------------#
 #EXTINF:-1 group-title="Quốc Tế" tvg-id="animalhd" tvg-logo="https://i.imgur.com/9t7FsCk.png",Animal Planet
 udp://@225.1.1.231:30120
-#EXTINF:-1 group-title="Quốc Tế" tvg-logo="https://i.imgur.com/FZQzBOm.png",Animax
-udp://@225.1.1.135:30120
 #EXTINF:-1 group-title="Quốc Tế" tvg-id="afnhd" tvg-logo="https://i.imgur.com/rQ3Sgrn.png",Asian Food Network
 udp://@225.1.1.198:30120
 #EXTINF:-1 group-title="Quốc Tế" tvg-logo="https://i.imgur.com/5Gtp7WP.png",AXN
@@ -325,41 +286,59 @@ udp://@225.1.1.200:30120
 #-------------------FPT Service-------------------#
 #EXTINF:-1 group-title="FPT Service" tvg-logo="https://i.imgur.com/iuGGPYy.png",FPT Giới Thiệu Chương Trình
 udp://@225.1.1.2:30120
-#EXTINF:-1 group-title="FPT Service" tvg-logo="https://i.imgur.com/iuGGPYy.png",Pladio
-udp://@225.1.2.244:30120
 #-------------------test-------------------#
-#EXTINF:-1 group-title="CLEAN FEED" tvg-logo="https://i.imgur.com/iuGGPYy.png",FEED 1 SPORTS
+#EXTINF:0 tvg-id="" group-title="SPORTS EVENT" tvg-logo="https://i.imgur.com/iuGGPYy.png",SPORTS EVENT 1
 udp://@225.1.1.27:30120
-#EXTINF:-1 group-title="CLEAN FEED" tvg-logo="https://i.imgur.com/iuGGPYy.png",FEED 2 SPORTS
+#EXTINF:0 tvg-id="" group-title="SPORTS EVENT" tvg-logo="https://i.imgur.com/iuGGPYy.png",SPORTS EVENT 2
 udp://@225.1.1.28:30120
-#EXTINF:-1 group-title="CLEAN FEED" tvg-logo="https://i.imgur.com/iuGGPYy.png",FEED 3 SPORTS
+#EXTINF:0 tvg-id="" group-title="SPORTS EVENT" tvg-logo="https://i.imgur.com/iuGGPYy.png",SPORTS EVENT 3
 udp://@225.1.1.30:30120
-#EXTINF:-1 group-title="CLEAN FEED" tvg-logo="https://i.imgur.com/iuGGPYy.png",FEED 4 SPORTS
+#EXTINF:0 tvg-id="" group-title="SPORTS EVENT" tvg-logo="https://i.imgur.com/iuGGPYy.png",SPORTS EVENT 4
 udp://@225.1.1.31:30120
-#EXTINF:-1 group-title="CLEAN FEED" tvg-logo="https://i.imgur.com/iuGGPYy.png",FEED 5 SPORTS
-udp://@225.1.1.32:30120
-#EXTINF:-1 group-title="CLEAN FEED" tvg-logo="https://i.imgur.com/iuGGPYy.png",FEED 6 SPORTS
-udp://@225.1.1.33:30120
-#EXTINF:-1 group-title="CLEAN FEED" tvg-logo="https://i.imgur.com/iuGGPYy.png",FEED 7 SPORTS
-udp://@225.1.1.34:30120
-#EXTINF:-1 group-title="CLEAN FEED" tvg-logo="https://i.imgur.com/iuGGPYy.png",FEED 8 SPORTS
+#EXTINF:0 tvg-id="" group-title="SPORTS EVENT" tvg-logo="https://i.imgur.com/iuGGPYy.png",SPORTS EVENT 5
 udp://@225.1.1.10:30120
-#EXTINF:-1 group-title="CLEAN FEED" tvg-logo="https://i.imgur.com/iuGGPYy.png",FEED 9 SPORTS
+#EXTINF:0 tvg-id="" group-title="SPORTS EVENT" tvg-logo="https://i.imgur.com/iuGGPYy.png",SPORTS EVENT 6
 udp://@225.1.1.12:30120
-#EXTINF:-1 group-title="CLEAN FEED" tvg-logo="https://i.imgur.com/iuGGPYy.png",FEED 10 SPORTS
-udp://@225.1.1.68:30120
-#EXTINF:-1 group-title="CLEAN FEED" tvg-logo="https://i.imgur.com/iuGGPYy.png",FEED 11 SPORTS
-udp://@225.1.1.69:30120
-#EXTINF:-1 group-title="CLEAN FEED" tvg-logo="https://i.imgur.com/iuGGPYy.png",FEED 12 SPORTS
-udp://@225.1.1.70:30120
-#EXTINF:-1 group-title="CLEAN FEED" tvg-logo="https://i.imgur.com/iuGGPYy.png",FEED 13 SPORTS
+#EXTINF:0 tvg-id="" group-title="SPORTS EVENT" tvg-logo="https://i.imgur.com/iuGGPYy.png",SPORTS EVENT 7
+udp://@225.1.1.15:30120
+#EXTINF:0 tvg-id="" group-title="SPORTS EVENT" tvg-logo="https://i.imgur.com/iuGGPYy.png",SPORTS EVENT 8
+udp://@225.1.1.32:30120
+#EXTINF:0 tvg-id="" group-title="SPORTS EVENT" tvg-logo="https://i.imgur.com/iuGGPYy.png",SPORTS EVENT 9
+udp://@225.1.1.33:30120
+#EXTINF:0 tvg-id="" group-title="SPORTS EVENT" tvg-logo="https://i.imgur.com/iuGGPYy.png",SPORTS EVENT 10
+udp://@225.1.1.34:30120
+#EXTINF:0 tvg-id="" group-title="SPORTS EVENT" tvg-logo="https://i.imgur.com/iuGGPYy.png",SPORTS EVENT 11
 udp://@225.1.1.35:30120
-#EXTINF:-1 group-title="CLEAN FEED" tvg-logo="https://i.imgur.com/iuGGPYy.png",FEED 14 SPORTS
+#EXTINF:0 tvg-id="" group-title="SPORTS EVENT" tvg-logo="https://i.imgur.com/iuGGPYy.png",SPORTS EVENT 12
+udp://@225.1.1.37:30120
+#EXTINF:0 tvg-id="" group-title="SPORTS EVENT" tvg-logo="https://i.imgur.com/iuGGPYy.png",SPORTS EVENT 13
+udp://@225.1.1.38:30120
+#EXTINF:0 tvg-id="" group-title="SPORTS EVENT" tvg-logo="https://i.imgur.com/iuGGPYy.png",SPORTS EVENT 14
+udp://@225.1.1.68:30120
+#EXTINF:0 tvg-id="" group-title="SPORTS EVENT" tvg-logo="https://i.imgur.com/iuGGPYy.png",SPORTS EVENT 15
+udp://@225.1.1.69:30120
+#EXTINF:0 tvg-id="" group-title="SPORTS EVENT" tvg-logo="https://i.imgur.com/iuGGPYy.png",SPORTS EVENT 16
+udp://@225.1.1.70:30120
+#EXTINF:0 tvg-id="" group-title="SPORTS EVENT" tvg-logo="https://i.imgur.com/iuGGPYy.png",SPORTS EVENT 17
+udp://@225.1.1.71:30120
+#EXTINF:0 tvg-id="" group-title="SPORTS EVENT" tvg-logo="https://i.imgur.com/iuGGPYy.png",SPORTS EVENT 18
+udp://@225.1.1.72:30120
+#EXTINF:0 tvg-id="" group-title="SPORTS EVENT" tvg-logo="https://i.imgur.com/iuGGPYy.png",SPORTS EVENT 19
 udp://@225.1.1.92:30120
-#EXTINF:-1 group-title="CLEAN FEED" tvg-logo="https://i.imgur.com/iuGGPYy.png",FEED 15 SPORTS
+#EXTINF:0 tvg-id="" group-title="SPORTS EVENT" tvg-logo="https://i.imgur.com/iuGGPYy.png",SPORTS EVENT 20
 udp://@225.1.1.93:30120
-#EXTINF:-1 group-title="CLEAN FEED" tvg-logo="https://i.imgur.com/iuGGPYy.png",FEED 16 SPORTS
+#EXTINF:0 tvg-id="" group-title="SPORTS EVENT" tvg-logo="https://i.imgur.com/iuGGPYy.png",SPORTS EVENT 21
+udp://@225.1.1.94:30120
+#EXTINF:0 tvg-id="" group-title="SPORTS EVENT" tvg-logo="https://i.imgur.com/iuGGPYy.png",SPORTS EVENT 22
+udp://@225.1.1.95:30120
+#EXTINF:0 tvg-id="" group-title="SPORTS EVENT" tvg-logo="https://i.imgur.com/iuGGPYy.png",SPORTS EVENT 23
+udp://@225.1.1.96:30120
+#EXTINF:0 tvg-id="" group-title="SPORTS EVENT" tvg-logo="https://i.imgur.com/iuGGPYy.png",SPORTS EVENT 24
+udp://@225.1.1.97:30120
+#EXTINF:0 tvg-id="" group-title="SPORTS EVENT" tvg-logo="https://i.imgur.com/iuGGPYy.png",SPORTS EVENT 25
 udp://@225.1.1.100:30120
+#EXTINF:0 tvg-id="" group-title="SPORTS EVENT" tvg-logo="https://i.imgur.com/iuGGPYy.png",SPORTS EVENT 26
+udp://@225.1.1.101:30120
 #-------------------VTV 4Mbps-------------------#
 #EXTINF:-1 group-title="VTV" tvg-id="vtv1hd" tvg-logo="https://i.imgur.com/te4Rb7f.png",VTV1 HD (HD 4Mbps)
 udp://@225.1.4.1:30120
@@ -379,8 +358,6 @@ udp://@225.1.4.10:30120
 udp://@225.1.4.7:30120
 #EXTINF:-1 group-title="VTV" tvg-id="vtv9hd" tvg-logo="https://i.imgur.com/GDP5zVb.png",VTV9 HD (HD 4Mbps)
 udp://@225.1.4.8:30120
-#EXTINF:-1 group-title="VTC" tvg-id="vtc3hd" tvg-logo="https://imgur.com/vemNwkI.png",VTC3 HD (HD 4Mbps)
-udp://@225.1.4.42:30120
 #-------------------DRM-------------------#
 #EXTINF:-1 group-title="K+" tvg-logo="https://i.imgur.com/OpcWkSd.png",K+ Cine HD (DRM)
 udp://@225.1.1.5:30120
