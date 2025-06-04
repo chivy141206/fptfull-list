@@ -60,6 +60,12 @@ udp://@225.1.2.217:30120
 #EXTINF:-1 group-title="Other" tvg-logo="https://i.imgur.com/DCw2OgM.png",SCTV6
 udp://@225.1.1.188:30120
 #-------------------Địa phương-------------------#
+#EXTINF:0 tvg-id="hanoi1" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/mwCTDMj.png",H1 HD - TH Hà Nội
+udp://@225.1.2.186:30120
+#EXTINF:0 tvg-id="hanoi2" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/HyiwlZV.png",H2 HD - TH Hà Nội
+udp://@225.1.1.125:30120
+#EXTINF:0 tvg-id="hanoi2" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/HyiwlZV.png",H2 UHD - TH Hà Nội
+udp://@225.1.1.109:30120
 #EXTINF:0 tvg-id="laocai" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/QAVSUBu.png",THLC - TH Lào Cai
 udp://@225.1.1.119:30120
 #EXTINF:0 tvg-id="yenbai" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/AELRXuX.png",YTV HD - TH Yên Bái
@@ -92,10 +98,6 @@ udp://@225.1.2.181:30120
 udp://@225.1.2.180:30120
 #EXTINF:0 tvg-id="bacninh" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/zUFSFCV.png",BTV - TH Bắc Ninh
 udp://@225.1.1.40:30120
-#EXTINF:0 tvg-id="hanoi1" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/mwCTDMj.png",H1 HD - TH Hà Nội
-udp://@225.1.2.186:30120
-#EXTINF:0 tvg-id="hanoi2" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/HyiwlZV.png",H2 HD - TH Hà Nội
-udp://@225.1.1.125:30120
 #EXTINF:0 tvg-id="haiduong" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/QmzXd4R.png",THD - TH Hải Dương
 udp://@225.1.1.158:30120
 #EXTINF:0 tvg-id="haiphong" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/StFk4PA.png",THP HD - TH TP. Hải Phòng
