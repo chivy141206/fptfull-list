@@ -192,10 +192,6 @@ udp://@225.1.2.23:30120
 udp://@225.1.2.38:30120
 #EXTINF:0 tvg-id="camau" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/cYqXh3i.png",CTV HD | Báo và Đài PTTH Cà Mau
 udp://@225.1.1.104:30120
-#EXTINF:0 tvg-id="cantho" group-title="Địa phương (HD)" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/THTPCT_CanTho.png",THTPCT | Đài PTTH Thành phố Cần Thơ
-udp://@225.1.1.157:30120
-#EXTINF:0 tvg-id="ninhbinh" group-title="Địa phương (SD)" tvg-logo="https://i.imgur.com/XuYnZWe.png",NBTV | Báo và PTTH Ninh Bình
-udp://@225.1.1.63:30120
 #-------------------Quốc tế-------------------#
 #EXTINF:0 tvg-id="abcaustralia" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/UI80qhw.png",ABC Australia
 udp://@225.1.2.21:30120
