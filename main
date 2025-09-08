@@ -43,7 +43,7 @@ udp://@225.1.1.177:30120
 udp://@225.1.1.185:30120
 #EXTINF:0 tvg-id="htvcdulichhd" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/XxIO0E0.png",HTVC Du Lịch và Cuộc Sống
 udp://@225.1.1.166:30120
-#EXTINF:0 tvg-id="htvcthuanviet" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/xmISDWo.png",HTVC Thuần Việt
+#EXTINF:0 tvg-id="htvcthuanviethd" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/xmISDWo.png",HTVC Thuần Việt
 udp://@225.1.1.186:30120
 #-------------------Thiết yếu-------------------#
 #EXTINF:0 group-title="Kênh TH Thiết yếu" tvg-logo="https://i.imgur.com/5qQzerW.png" tvg-id="antvhd",ANTV - An Ninh TV
