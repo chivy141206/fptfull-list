@@ -22,7 +22,7 @@ udp://@225.1.1.128:30120
 udp://@225.1.2.236:30120
 #EXTINF:0 group-title="VTV" tvg-id="vtv5hdtn" tvg-logo="https://i.imgur.com/rL36UO5.png",VTV5 Tây Nguyên
 udp://@225.1.1.108:30120
-#EXTINF:0 group-title="VTV" tvg-id="vietnamtoday" tvg-logo="https://i.postimg.cc/8CRsGzbZ/vntoday.png",Vietnam Today
+#EXTINF:0 group-title="VTV" tvg-id="vietnamtoday" tvg-logo="https://raw.githubusercontent.com/chivy141206/fptfull-list/refs/heads/main/logo/vntoday.png",Vietnam Today
 udp://@225.1.2.190:30120
 #-------------------HTV/HTVC-------------------#
 #EXTINF:0 tvg-id="htv2hd" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/f3KlwDX.png",HTV2 Vie Channel
@@ -52,7 +52,7 @@ udp://@225.1.1.181:30120
 #-------------------Thiết yếu-------------------#
 #EXTINF:0 group-title="Kênh TH Thiết yếu" tvg-logo="https://i.imgur.com/5qQzerW.png" tvg-id="antvhd",ANTV - An Ninh TV
 udp://@225.1.2.169:30120
-#EXTINF:0 group-title="Kênh TH Thiết yếu" tvg-logo="https://i.postimg.cc/jjPx444z/qpvn.png" tvg-id="qpvnhd",QPVN
+#EXTINF:0 group-title="Kênh TH Thiết yếu" tvg-logo="https://raw.githubusercontent.com/chivy141206/fptfull-list/refs/heads/main/logo/qpvn.png" tvg-id="qpvnhd",QPVN
 udp://@225.1.2.217:30120
 #-------------------Other-------------------#
 #EXTINF:0 group-title="Other" tvg-logo="https://i.imgur.com/DCw2OgM.png",SCTV6
