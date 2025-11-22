@@ -304,14 +304,5 @@ udp://@225.1.4.10:30120
 udp://@225.1.4.7:30120
 #EXTINF:0 group-title="VTV" tvg-id="vtv9hd" tvg-logo="https://i.imgur.com/GDP5zVb.png",VTV9 HD (HD 4Mbps)
 udp://@225.1.4.8:30120
-#-------------------DRM-------------------#
-#EXTINF:0 group-title="K+" tvg-logo="https://i.imgur.com/OpcWkSd.png",K+ Cine HD (DRM)
-udp://@225.1.1.5:30120
-#EXTINF:0 group-title="K+" tvg-logo="https://i.imgur.com/mFWSR9z.png",K+ Life HD (DRM)
-udp://@225.1.1.6:30120
-#EXTINF:0 group-title="K+" tvg-logo="https://i.imgur.com/7R6Bkfd.png",K+ Kids HD (DRM)
-udp://@225.1.1.76:30120
-#EXTINF:0 group-title="K+" tvg-logo="https://i.imgur.com/eVrn5Bp.png",K+ Sport 1 HD (DRM)
-udp://@225.1.1.73:30120
-#EXTINF:0 group-title="K+" tvg-logo="https://i.imgur.com/famc6Ss.png",K+ Sport 2 HD (DRM)
-udp://@225.1.1.77:30120
+#EXTINF:0 group-title="VTV" tvg-id="vtv9hd" tvg-logo="https://i.imgur.com/GDP5zVb.png",VTV9 (Phụ)
+udp://@225.1.3.9:30120
