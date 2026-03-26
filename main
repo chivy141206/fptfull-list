@@ -233,15 +233,15 @@ udp://@225.1.1.227:30120
 #EXTINF:0 group-title="FPT Service" tvg-logo="https://i.imgur.com/iuGGPYy.png",FPT Giới Thiệu Chương Trình
 udp://@225.1.1.2:30120
 #-------------------test-------------------#
-#EXTINF:0 tvg-id="" group-title="SPORTS EVENT" tvg-logo="https://i.imgur.com/iuGGPYy.png",SPORTS EVENT 1
+#EXTINF:0 tvg-id="" group-title="SPORTS EVENT" tvg-logo="https://i.imgur.com/iuGGPYy.png",SPORTS EVENT MAIN
 udp://@225.1.1.48:30120
-#EXTINF:0 tvg-id="" group-title="SPORTS EVENT" tvg-logo="https://i.imgur.com/iuGGPYy.png",SPORTS EVENT 2
+#EXTINF:0 tvg-id="" group-title="SPORTS EVENT" tvg-logo="https://i.imgur.com/iuGGPYy.png",SPORTS EVENT MAIN
 udp://@225.1.1.49:30120
-#EXTINF:0 tvg-id="" group-title="SPORTS EVENT" tvg-logo="https://i.imgur.com/iuGGPYy.png",SPORTS EVENT 3
+#EXTINF:0 tvg-id="" group-title="SPORTS EVENT" tvg-logo="https://i.imgur.com/iuGGPYy.png",SPORTS EVENT MAIN
 udp://@225.1.1.50:30120
-#EXTINF:0 tvg-id="" group-title="SPORTS EVENT" tvg-logo="https://i.imgur.com/iuGGPYy.png",SPORTS EVENT 4
+#EXTINF:0 tvg-id="" group-title="SPORTS EVENT" tvg-logo="https://i.imgur.com/iuGGPYy.png",SPORTS EVENT MAIN
 udp://@225.1.1.51:30120
-#EXTINF:0 tvg-id="" group-title="SPORTS EVENT" tvg-logo="https://i.imgur.com/iuGGPYy.png",SPORTS EVENT 5
+#EXTINF:0 tvg-id="" group-title="SPORTS EVENT" tvg-logo="https://i.imgur.com/iuGGPYy.png",SPORTS EVENT
 udp://@225.1.1.10:30120
 #EXTINF:0 tvg-id="" group-title="SPORTS EVENT" tvg-logo="https://i.imgur.com/iuGGPYy.png",SPORTS EVENT
 udp://@225.1.1.12:30120
