@@ -39,7 +39,7 @@ udp://@225.1.1.180:30120
 udp://@225.1.1.178:30120
 #EXTINF:0 tvg-id="htv4" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/wrH7U0X.png",HTV4
 udp://@225.1.1.177:30120
-#EXTINF:0 tvg-id="htv5" group-title="HTV/HTVC" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/HTV5_BChannel.png",HTV5 BChannel (HD 8Mbps)
+#EXTINF:0 tvg-id="htv5" group-title="HTV/HTVC" tvg-logo="https://i.postimg.cc/MH5sp1HH/HTV5-BChannel.png",HTV5 BChannel
 udp://@225.1.2.189:30120
 #EXTINF:0 tvg-id="htvccanhachd" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/ZHVkEIC.png",HTVC Ca Nhạc
 udp://@225.1.1.185:30120
