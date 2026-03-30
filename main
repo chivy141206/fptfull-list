@@ -18,7 +18,7 @@ udp://@225.1.2.96:30120
 udp://@225.1.2.166:30120
 #EXTINF:0 group-title="VTV" tvg-id="vtv9hd" tvg-logo="https://i.imgur.com/GDP5zVb.png",VTV9 HD
 udp://@225.1.1.128:30120
-#EXTINF:0 group-title="VTV" tvg-id="vtvcantho" tvg-logo="https://i.imgur.com/omoFMJA.png",VTV10
+#EXTINF:0 group-title="VTV" tvg-id="vtvcantho" tvg-logo="https://i.imgur.com/omoFMJA.png",VTV10 HD
 udp://@225.1.2.245:30120
 #EXTINF:0 group-title="VTV" tvg-id="vtv5hdtnb" tvg-logo="https://i.imgur.com/PDwCXW4.png",VTV5 Tây Nam Bộ
 udp://@225.1.2.236:30120
