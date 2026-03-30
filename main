@@ -18,7 +18,7 @@ udp://@225.1.2.96:30120
 udp://@225.1.2.166:30120
 #EXTINF:0 group-title="VTV" tvg-id="vtv9hd" tvg-logo="https://i.imgur.com/GDP5zVb.png",VTV9 HD
 udp://@225.1.1.128:30120
-#EXTINF:0 group-title="VTV" tvg-id="vtvcantho" tvg-logo="https://i.imgur.com/omoFMJA.png",VTV10 HD
+#EXTINF:0 group-title="VTV" tvg-id="vtvcantho" tvg-logo="https://raw.githubusercontent.com/chivy141206/fptfull-list/refs/heads/main/logo/vtv10.png",VTV10 HD
 udp://@225.1.2.245:30120
 #EXTINF:0 group-title="VTV" tvg-id="vtv5hdtnb" tvg-logo="https://i.imgur.com/PDwCXW4.png",VTV5 Tây Nam Bộ
 udp://@225.1.2.236:30120
@@ -39,7 +39,7 @@ udp://@225.1.1.180:30120
 udp://@225.1.1.178:30120
 #EXTINF:0 tvg-id="htv4" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/wrH7U0X.png",HTV4
 udp://@225.1.1.177:30120
-#EXTINF:0 tvg-id="htv5" group-title="HTV/HTVC" tvg-logo="https://i.postimg.cc/MH5sp1HH/HTV5-BChannel.png",HTV5 BChannel
+#EXTINF:0 tvg-id="htv5" group-title="HTV/HTVC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c3/HTV5_Bchannel.png",HTV5 BChannel
 udp://@225.1.2.189:30120
 #EXTINF:0 tvg-id="htvccanhachd" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/ZHVkEIC.png",HTVC Ca Nhạc
 udp://@225.1.1.185:30120
