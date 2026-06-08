@@ -10,8 +10,8 @@ udp://@225.1.2.247:30120
 udp://@225.1.2.20:30120
 #EXTINF:0 group-title="VTV" tvg-id="vtv5hd" tvg-logo="https://i.imgur.com/lOvwbNQ.png",VTV5 HD
 udp://@225.1.1.131:30120
-#EXTINF:0 group-title="VTV" tvg-id="vietnamtoday" tvg-logo="https://raw.githubusercontent.com/chivy141206/fptfull-list/refs/heads/main/logo/vntoday.png",Vietnam Today
-udp://@225.1.2.190:30120
+#EXTINF:0 group-title="VTV" tvg-id="vtv6hd" tvg-logo="https://raw.githubusercontent.com/chivy141206/fptfull-list/refs/heads/main/logo/vtv6.png",VTV6 HD
+udp://@225.1.2.154:30120
 #EXTINF:0 group-title="VTV" tvg-id="vtv7hd" tvg-logo="https://i.imgur.com/z8m5lWk.png",VTV7 HD
 udp://@225.1.2.96:30120
 #EXTINF:0 group-title="VTV" tvg-id="vtv8hd" tvg-logo="https://i.imgur.com/mIjvO6X.png",VTV8 HD
@@ -24,6 +24,8 @@ udp://@225.1.2.245:30120
 udp://@225.1.2.236:30120
 #EXTINF:0 group-title="VTV" tvg-id="vtv5hdtn" tvg-logo="https://i.imgur.com/rL36UO5.png",VTV5 Tây Nguyên
 udp://@225.1.1.108:30120
+#EXTINF:0 group-title="VTV" tvg-id="vietnamtoday" tvg-logo="https://raw.githubusercontent.com/chivy141206/fptfull-list/refs/heads/main/logo/vntoday.png",Vietnam Today
+udp://@225.1.2.190:30120
 #-------------------HTV/HTVC-------------------#
 #EXTINF:0 tvg-id="htv2hd" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/f3KlwDX.png",HTV2 Vie Channel
 udp://@225.1.1.193:30120
