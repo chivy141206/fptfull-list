@@ -307,6 +307,8 @@ udp://@225.1.1.83:30120
 udp://@225.1.1.84:30120
 #EXTINF:0 tvg-id="" group-title="SPORTS EVENT" tvg-logo="https://i.imgur.com/iuGGPYy.png",SPORTS EVENT N87
 udp://@225.1.1.87:30120
+#EXTINF:0 tvg-id="" group-title="SPORTS EVENT" tvg-logo="https://i.imgur.com/iuGGPYy.png",SPORTS EVENT N87 HVC
+udp://@225.1.2.87:30120
 #EXTINF:0 tvg-id="" group-title="SPORTS EVENT" tvg-logo="https://i.imgur.com/iuGGPYy.png",SPORTS EVENT N92
 udp://@225.1.1.92:30120
 #EXTINF:0 tvg-id="" group-title="SPORTS EVENT" tvg-logo="https://i.imgur.com/iuGGPYy.png",SPORTS EVENT N93
