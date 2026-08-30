@@ -325,6 +325,10 @@ udp://@225.1.1.97:30120
 udp://@225.1.1.100:30120
 #EXTINF:0 tvg-id="" group-title="SPORTS EVENT" tvg-logo="https://i.imgur.com/iuGGPYy.png",SPORTS EVENT N101
 udp://@225.1.1.101:30120
+#EXTINF:0 tvg-id="" group-title="SPORTS EVENT" tvg-logo="https://i.imgur.com/iuGGPYy.png",SPORTS EVENT N150 HVC
+udp://@225.1.2.150:30120
+#EXTINF:0 tvg-id="" group-title="SPORTS EVENT" tvg-logo="https://i.imgur.com/iuGGPYy.png",SPORTS EVENT N152 HVC
+udp://@225.1.2.152:30120
 #EXTINF:0 tvg-id="" group-title="SPORTS EVENT" tvg-logo="https://i.imgur.com/iuGGPYy.png",SPORTS EVENT N203
 udp://@225.1.1.203:30120
 #EXTINF:0 tvg-id="" group-title="SPORTS EVENT" tvg-logo="https://i.imgur.com/iuGGPYy.png",SPORTS EVENT N203 HVC
